@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scrapbooking App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="eiffeltower">Eiffel Tower</string>
+    <string name="pizaa">Leaning Tower Of PISA</string>
+    <string name="tajmahal">Taj Mahal</string>
+    <string name="towers">Twin Towers</string>
+
+</resources>
